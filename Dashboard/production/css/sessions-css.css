@@ -1,0 +1,16 @@
+#allsessions{
+	padding-top:.5em;
+	font-size: 1.5em;
+	color: #49D1BB;
+	font-family: "Arial Black", Gadget, sans-serif;
+}
+
+#title{
+	color: #49D1BB;
+	visibility: visible;
+    font-family: 'Roboto Slab', sans-serif;
+    font-size: 2em;
+}
+.blue_background{
+	background: #0C3956;
+}
